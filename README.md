@@ -1,7 +1,7 @@
 # Projects-using-APIs
 Projects integrate external APIs such as Sheety, OpenTrivia, OpenWeatherMap, Nutritionix, and Amadeus for real-time data.
 
-## Technologies & Libraries Used
+## Libraries Used
 - requests – For making HTTP requests to various APIs.
 - tkinter – For building graphical user interfaces (GUI).
 - dotenv – For loading environment variables from a .env file.
